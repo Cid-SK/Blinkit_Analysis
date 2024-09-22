@@ -55,5 +55,4 @@ The web application has been deployed on Render. You can access it at the follow
 - **Pandas**
 - **Plotly**
 - **Streamlit Option Menu**
-- 
 ---
