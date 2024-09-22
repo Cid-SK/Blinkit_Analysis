@@ -469,4 +469,4 @@ elif selected_menu == "About":
     )
 
     # Path to the Power BI dashboard image
-    st.image("S:/projects/Blinkit/Blinkit_PowerBi_Dashboard.png", caption="Power BI Dashboard Overview")
+    st.image("Blinkit_PowerBI_Dashboard.png", caption="Power BI Dashboard Overview")
