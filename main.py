@@ -4,7 +4,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 
 # Reading the dataset
-data_frame = pd.read_csv("S:\\projects\\Blinkit\\Blinkit_dataset.csv")
+data_frame = pd.read_csv("Blinkit_cleaned_dataset.csv")
 
 # Streamlit setup
 st.set_page_config(page_title="Blinkit Sales Analysis", layout="wide")
