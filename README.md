@@ -1,4 +1,3 @@
-Here’s the updated README file for your project, including a placeholder for your Render deployment link:
 
 ---
 
