@@ -47,7 +47,7 @@ This project also includes a Power BI dashboard that provides additional analysi
 
 The web application has been deployed on Render. You can access it at the following link:
 
-[**Access the Blinkit Sales Analysis App**](YOUR_RENDER_LINK)
+[**Access the Blinkit Sales Analysis App**](https://blinkit-sales-analysis.onrender.com)
 
 ## Technologies Used
 - **Python**
